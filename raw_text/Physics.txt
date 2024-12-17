@@ -1,0 +1,2908 @@
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  Two-thirds of the charge is removed from a capacitor without 
+changing its capacitance.  The stored energy in the capacitor is now what multiple of the original: 
+ 
+W)  1/3rd 
+X)  1/9th 
+Y)  3 
+Z)  9 
+ 
+ANSWER:  X)  1/9th 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Multiple Choice  If a sound is emitted in dry air at 27ºC and takes 5 seconds to reach a 
+person, how far away, in meters, from the sound source is the person:  
+ 
+W)  1,655 
+X)  1,682 
+Y)  1,736 
+Z)  1,873 
+ 
+ANSWER:  Y)  1,736 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Multiple Choice  Kirchhoff’s First Rule, often called the node or junction rule, is a 
+restatement of which of the following fundamental principles: 
+ 
+W)  conservation of energy 
+X)  conservation of mass 
+Y)  conservation of charge 
+Z)  conservation of momentum 
+ 
+ANSWER:  Y)  CONSERVATION OF CHARGE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Short Answer  Giving your answer in proper scientific notation to the first decimal 
+place, how many joules of work are required to move a charge of +60 microcoulombs through a 
+potential difference of 8 volts? 
+ 
+ANSWER:  4.8 × 10-4  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  Thomas Young’s double slit experiments give the most direct and 
+strongest support for which of the following: 
+ 
+W)  the wave nature of light  
+X)  the constancy of the speed of light 
+Y)  the existence of the photon  
+Z)  the particle nature of light 
+ 
+ANSWER:  W)  THE WAVE NATURE OF LIGHT 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Short Answer  Order the following 3 locations from the SLOWEST to the FASTEST 
+for objects accelerating because of gravity:  Mount Everest;  North Pole;  New York City 
+ 
+ANSWER:  MOUNT EVEREST;  NEW YORK CITY;  NORTH POLE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  A boy gets a sled for his birthday in July.  He exerts a  
+50-newton horizontal force as he pulls the 80-newton sled across the cement driveway at a constant 
+speed.  What is the coefficient of kinetic friction, to the second decimal place, between the driveway 
+and the metal blades of the sled? 
+ 
+ANSWER:  0.63 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  It is now January and there is snow!  The coefficient of friction is 
+now 0.10.  If a person weighing 500 newtons sits on the 80-newton sled, what horizontal force, in 
+newtons, is needed to pull the sled across the snow at constant speed? 
+ 
+ANSWER:  58 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Multiple Choice  A field emission microscope requires which of the following: 
+ 
+W)  a conductor with a very fine point 
+X)  high energy alpha particles 
+Y)  a light source with a wavelength shorter that the smallest observable feature size 
+Z)  a low amplitude, time-varying magnetic field 
+ 
+ANSWER:  W)  A CONDUCTOR WITH A VERY FINE POINT 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Short Answer  Rounded to the nearest thousand, how many joules of work are done in 
+pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters, with a chain 
+that makes a 45º angle with the surface? 
+ 
+ANSWER:  14,000 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  The scattering of alpha particles by a metal foil was first studied by: 
+ 
+W)  Compton  
+X)  Rutherford  
+Y)  Bragg  
+Z)  Rayleigh  
+ 
+ANSWER:  X)  RUTHERFORD  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Short Answer  A pole vaulter with a mass of 150 kilograms is traveling at 25 meters 
+per second just prior to landing on an air mattress which collapses and allows the vaulter to come to 
+rest over a period of 2.0 seconds.  What was the force of the impact between the vaulter and the air 
+mattress, in newtons? 
+ 
+ANSWER:  1875 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Multiple Choice  Which of the following could most practically be used as a detector 
+for the automatic door opening system you find at your local grocery store: 
+ 
+W)  infrared camera system 
+X)  ultrasonic motion detector 
+Y)  radar system 
+Z)  optical camera system 
+ 
+ANSWER:  Y)  RADAR SYSTEM 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Multiple Choice  The radar system associated with the automatic doors at a local 
+grocery store uses 10.5 gigahertz radiation.  If the door is to open for a person walking towards it at 
+1 meter per second, which Doppler shift must the radar system be able to detect: 
+ 
+W)  a red shift of 2 hertz  
+X)  a blue shift of 35 hertz 
+Y)  a red shift of 160 hertz 
+Z) a blue shift of 1.8 hertz 
+ 
+ANSWER:  X)  A BLUE SHIFT OF 35 HERTZ 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+23)  PHYSICS  Short Answer  Billy drops his teddy bear out of the car window 2 meters from the 
+ground while his father is driving down Main Street at 20 meters per second.  In seconds to the first 
+decimal place, how long does it take for the bear to hit the ground, assuming air resistance is 
+neglected? 
+ 
+ANSWER:  0.6 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+23)  PHYSICS  Short Answer  Using your rounded answer to the above question and remembering 
+that the father is driving down Main Street at 20 meters per second, how far will the bear travel 
+horizontally before striking the ground, rounded to the nearest whole meter and again assuming air 
+resistance is neglected? 
+ 
+ANSWER:  12 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Short Answer  What is the underwater pressure in atmospheres in a fresh water lake 
+at a depth of 20 meters? 
+ 
+ANSWER:  3 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Short Answer  What is the resonant frequency, in hertz to the nearest whole number, 
+of a three-component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm 
+resister? 
+ 
+ANSWER:  80  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+1)  PHYSICS  Multiple Choice  Often some of the strongest spectral lines in cold interstellar gas are 
+produced by: 
+ 
+W)  neutral lithium 
+X)  ionized iron 
+Y)  carbon and iron 
+Z)  calcium and sodium 
+ 
+ANSWER:  Z)  CALCIUM AND SODIUM 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+1)  PHYSICS  Short Answer  The cosmic background radiation discovered by Penzias and Wilson 
+closely matches the radiation from a black body with what temperature Kelvin, to the nearest whole 
+number? 
+  
+ANSWER: 3 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Multiple Choice  The process in which an atom reradiates a photon after interacting 
+with an incident photon of the same energy is called: 
+ 
+W)  Rayleigh scattering  
+X)  the Cherenkov effect 
+Y)  Bragg’s Law 
+Z)  Thomson scattering 
+ 
+ANSWER:  Z)  THOMSON SCATTERING 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Multiple Choice  A protanomalous person has decreased sensitivity of the red cones 
+in his or her eyes.  Which of the following color pairs will this person have difficulty distinguishing 
+between: 
+ 
+W)  red and green 
+X)  blue and purple 
+Y)  yellow and turquoise 
+Z)  dark navy blue and black 
+ 
+ANSWER:  X)  BLUE AND PURPLE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+15)  PHYSICS  Multiple Choice  In a compound gearing arrangement where a 40-tooth gear drives 
+an 80-tooth gear which is directly connected to a 50-tooth gear that drives a 100-tooth gear, the total 
+reduction is a factor of: 
+ 
+W)  2 
+X)  2.5 
+Y)  4 
+Z)  5 
+ 
+ANSWER:  Y)  4 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+15)  PHYSICS  Multiple Choice  Elastic deformation is BEST described as: 
+ 
+W)  the linear portion of a stress/strain curve 
+X)  the ultimate strength of a material 
+Y)  0.02% elongation 
+Z)  permanent deformation 
+ 
+ANSWER:  W)  THE LINEAR PORTION OF A STRESS/STRAIN CURVE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  What specific type of semiconductor is produced by adding 
+phosphorus to silicon? 
+ 
+ANSWER:  N-TYPE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  How many turns are in the secondary coil of a transformer that has a 
+primary coil with 20,000 turns and is designed to step down 12,000 volts AC to 120 volts AC? 
+ 
+ANSWER:  200 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  What percent of energy in our Universe is believed to consist of 
+dark matter and normal matter: 
+ 
+W)   4.4% 
+X)  16% 
+Y)  27% 
+Z)  73% 
+ 
+ANSWER:  Y)  27% 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Short Answer  Order the following 4 substances from the one with the LOWEST 
+dielectric constant to the HIGHEST at 20ºC:  mica;  paraffin;  vacuum;  pure water 
+ 
+ANSWER:  VACUUM;  PARAFFIN;  MICA;  PURE WATER 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Short Answer  Giving your answer in hertz, what is the lowest frequency possible for 
+a string that is 90-centimeters long and whose wave speed is 360 meters per second? 
+ 
+ANSWER:  200 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Multiple Choice  Current accounting of the composition of the universe suggests that 
+dark energy and dark matter together make up about what percent of the energy in the universe: 
+ 
+W)  65% 
+X)  75% 
+Y)  85% 
+Z)  95% 
+ 
+ANSWER:  Z)  95% 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  In using a frequency of light that causes the photoelectric effect, 
+which of the following will occur when there is an increase in the intensity of the incident light beam 
+on a metal surface:  
+ 
+W)  the maximum kinetic energy of ejected electrons will increase exponentially 
+X)  the maximum kinetic energy of ejected electrons will increase linearly  
+Y)  it will increase the work function 
+Z)  more electrons will be ejected from the metal 
+ 
+ANSWER:  Z)  MORE ELECTRONS WILL BE EJECTED FROM THE METAL 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Multiple Choice  Which of the following is NOT true according to the Standard 
+Model of Particle Physics: 
+ 
+W)  quarks carry color charge 
+X)  hadrons are color-neutral particles 
+Y)  quarks can be isolated from their hadrons 
+Z)  the carrier particle for the electromagnetic interaction has zero charge 
+ 
+ANSWER:  Y)  QUARKS CAN BE ISOLATED FROM THEIR HADRONS 
+------------------------------------------------------------------------------------------
+ 
+17)  PHYSICS  Multiple Choice  Which of the following is NOT true according to the Standard 
+Model of Particle Physics: 
+ 
+W)  quarks carry color charge 
+X)  hadrons are color-neutral particles 
+Y)  quarks can be isolated from their hadrons 
+Z)  the carrier particle for the electromagnetic interaction has zero charge 
+ 
+ANSWER:  Y)  QUARKS CAN BE ISOLATED FROM THEIR HADRONS 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  If a rock is spun on a sling with a frequency of 100 revolutions per 
+minute, what is the rock’s period, in seconds? 
+ 
+ANSWER:  0.6 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  A 3-kilogram model airplane has velocity components of 5 meters per 
+second due east and 8 meters per second due north.  What is the plane’s kinetic energy, in joules to 
+the nearest whole number? 
+ 
+ANSWER:  134  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Short Answer  Within the Standard Model of Particle Physics what particle is 
+responsible for carrying the strong nuclear force? 
+ 
+ANSWER:  GLUON 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Short Answer  What is the principle or law that fundamentally limits the accuracy of 
+specifying at the same time the momentum and position of a particle? 
+ 
+ANSWER:  HEISENBERG UNCERTAINTY PRINCIPLE  (ACCEPT:  UNCERTAINTY 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  Which of the following was the big surprise in the classic gold foil 
+experiments of Rutherford, Geiger and Marsden: 
+ 
+W)  alpha particles sometimes disappeared 
+X)  electrons would not penetrate the nucleus 
+Y)  the atom was mostly space as supported by the finding that most alpha particles continued on a 
+straight path and hit the rear of the detection screen 
+Z)  some alpha particles left evidence of having returned almost straight back to hit the front part of 
+the detection screen 
+ 
+ANSWER:  Z)  SOME ALPHA PARTICLES LEFT EVIDENCE OF HAVING RETURNED 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Short Answer  Most of the early classical experiments with alpha particles were done 
+by Rutherford and co-workers using a simple scintillation detector, which was a screen most 
+commonly coated with what substance? 
+ 
+ANSWER:  ZINC SULFIDE  (ACCEPT:  ZnS) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Multiple Choice  Which of the following is NOT true: 
+ 
+W)  the hydrogen nucleus has a lower binding energy per nucleon than the helium nucleus 
+X)  the tritium nucleus contains 3 nucleons 
+Y)  it is typically easier to fission U-238 than U-235 with slow neutrons 
+Z)  fission fragments of a nucleus are more often about 60% and 40% of the original mass of the 
+atom than 50% and 50% 
+ 
+ANSWER:  Y)  IT IS TYPICALLY EASIER TO FISSION U-238 THAN U-235 WITH SLOW 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Short Answer  In the Standard Model of particle physics, all forces arise because of 
+the exchange of what fundamental class of particles? 
+ 
+ANSWER:  BOSONS 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  What is the focal length, in centimeters and giving the proper sign, of 
+a convex mirror that has a radius of curvature of 12 centimeters? 
+ 
+ANSWER: –6  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  Rutherford and coworkers in the early 20th century found that when 
+alpha particles strike nitrogen-14 nuclei, they most commonly produce what element? 
+ 
+ANSWER:  OXYGEN  (ACCEPT:  OXYGEN-17 or O-17) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Short Answer  What is the angular velocity, in radians per second, of a wagon wheel 
+with a diameter of 2 meters and a surface velocity of 3 meters per second? 
+ 
+ANSWER:  3  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Short Answer  The dread pirate Roberts orders his crew into a 100 kilogram rowboat 
+to sail to an island to look for buried treasure.  If the rowboat has a capacity of 1.10 cubic meters and 
+is in freshwater, how many 50 kilogram pirates can board the rowboat before it would sink? 
+ 
+ANSWER:  20 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+1)  PHYSICS  Multiple Choice  A material with a negative index of refraction has which of the 
+following technologically significant implications: 
+ 
+W)  allowing imaging at resolutions below the diffraction limit of light 
+X)  superluminal light 
+Y)  improved spin coherence times 
+Z)  realization of high temperature superconductors 
+ 
+ANSWER:  W)  ALLOWING IMAGING AT RESOLUTIONS BELOW THE DIFFRACTION 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+1)  PHYSICS  Multiple Choice  The experimental technique of x-ray diffraction would be 
+inappropriate for obtaining which of the following physical parameters of a material: 
+ 
+W)  periodicity of a quantum well structure 
+X)  the atomic spacing of a crystal lattice 
+Y)  the amount of strain in a crystal lattice 
+Z)  impurity concentration in an unknown crystalline sample 
+ 
+ANSWER:  Z)  IMPURITY CONCENTRATION IN AN UNKOWN CRYSTALLINE SAMPLE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Multiple Choice  Consider an electrician who is about to drill holes though a series of 
+2-inch by 10-inch by 16-foot floor joists that are supported only at their ends by walls.  Which of the 
+following hole locations would DECREASE the load strength of each joist the LEAST: 
+ 
+W)  7 feet in from one of the supporting walls near the bottom edge  
+X)  7 feet from one of the supporting walls near the top edge  
+Y)  1 foot from one of the supporting walls near the bottom edge  
+Z)  1 foot from one of the supporting walls half way down from the top edge 
+ 
+ANSWER:  Z)  1 FOOT FROM ONE OF THE SUPPORTING WALLS HALF WAY DOWN 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Short Answer  A metal alloy beam 10-meters long expands in length at 0.25% per 
+kelvin at temperatures about room temperature.  If the beam is heated from 0ºC to 30ºC, how many 
+centimeters will it increase in length? 
+ 
+ANSWER:  75 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+18)  PHYSICS  Multiple Choice  Which of the following BEST explains how a linear accelerator 
+speeds up charged particles: 
+ 
+W)  creating large electric fields that push particles along on electromagnetic waves 
+X)  using magnets to push them along their trajectories 
+Y)  using superconducting magnets to accelerate particles to near light speed 
+Z)  using synchrotron radiation to ionize particles which are then accelerated by superconducting 
+magnets 
+ 
+ANSWER:  W)  CREATING LARGE ELECTRIC FIELDS THAT PUSH PARTICLES ALONG 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+18)  PHYSICS  Multiple Choice  Particle accelerators used by physicists are generally linear or 
+circular.  Which of the following is a major advantage of linear designs over circular: 
+ 
+W)  high energy electrons can only be obtained in linear accelerators 
+X)  linear accelerators do not need the large, expensive magnets of circular accelerators and do not 
+have as much radiation loss 
+Y)  they typically can produce more chances for collisions because they use fixed targets 
+Z)  they can be used in fixed target experiments while circular accelerators cannot 
+ 
+ANSWER:  X)  LINEAR ACCELERATORS DO NOT NEED THE LARGE, EXPENSIVE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  What are the respective frequencies of the second and third harmonics 
+of a string with a fundamental frequency of 262 hertz? 
+ 
+ANSWER:  524 AND 786 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  Assuming that they roll without sliding, order the following 3 objects 
+from the one with the SMALLEST rotational velocity down an arbitrarily long inclined plane to the 
+one with the LARGEST, after 5 seconds:  a one-inch-diameter o-ring;  a three-quarter inch-diameter 
+marble;  a quarter  
+ 
+ANSWER:  A ONE-INCH-DIAMETER O-RING;  A QUARTER;  A THREE-QUARTER INCH-
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  The discovery of the cosmic background radiation was originally 
+done with: 
+  
+W)  the Hubble space telescope  
+X)  the Arecibo radio telescope   
+Y)  a ground-based horn-shaped microwave antenna 
+Z)  a microwave receiver in a high altitude hot air balloon  
+ 
+ANSWER:  Y)  A GROUND-BASED HORN-SHAPED MICROWAVE ANTENNA 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Multiple Choice  Which of the following recently gave what many think as irrefutable 
+evidence for the existence of dark matter: 
+ 
+W)  the discovery of gravitational waves at the LIGO facility at Pacific Northwest National Lab 
+X)  Chandra X-ray images of hot gases during a violent merger of the “bullet cluster” of galaxies 
+Y)  creation of quark-gluon plasma at the Relativistic Heavy Ion Collider 
+Z)  the finding that neutrinos account for more mass of the universe than all the stars in the universe 
+ 
+ANSWER:  X)  CHANDRA X-RAY IMAGES OF HOT GASES DURING A VIOLET MERGER 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Multiple Choice  Generally, physicists cannot use light to explore the composition of 
+the subatomic world since light wavelengths are too long.  Which of the following do they MOST 
+often resort to as a tool of probing the nature of the atomic nucleus: 
+ 
+W)  high energy gamma-rays 
+X)  high energy charged particles 
+Y)  tunneling microscopes 
+Z)  ultrasonic analysis 
+ 
+ANSWER:  X)  HIGH ENERGY CHARGED PARTICLES 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Short Answer  Name all of the following 4 choices that are types of particles called 
+hadrons:  neutron;  proton;  positron;  antiproton 
+ 
+ANSWER:  NEUTRON;  PROTON;  ANTIPROTON  (ACCEPT:  ALL BUT POSITRON)  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Short Answer  Physicists have developed theories, called Grand Unified Theories, 
+that attempt to unify the forces of the universe into one.  As temperatures get higher going back 
+through the early universe, which three of the four forces do these theories typically unify first? 
+ 
+ANSWER:  ELECTROMAGNETIC;  STRONG;  WEAK  (ACCEPT: ALL BUT GRAVITY) 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Short Answer  Many physicists are highly critical of the rationale that seeks to 
+explain phenomena of the universe by indicating that, if things had been otherwise, life and humans 
+would not exist.  This is MOST commonly known as what principle? 
+ 
+ANSWER:  ANTHROPIC PRINCIPLE  (ACCEPT:  ANTHROPIC) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  If a 100-kilogram bear climbs from the bottom to the top of a vertical 
+10-meter tree in 10 seconds, what is the bear’s average power output, in watts?  
+ 
+ANSWER:  980 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  Two masses are hung in a physics lab.  These are tied to opposite 
+ends of a weightless string which passes over a frictionless pulley.  If the masses are released from 
+rest and mass #1 = 1 kilogram and mass #2 = 2 kilograms, what is the acceleration, to the first 
+decimal place, of mass #1 and in what direction, up or down? 
+ 
+ANSWER:  3.3 AND UP  (ACCEPT:  3.2 AND UP) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Multiple Choice  Which of the following is the MOST likely ultimate fate of the 
+universe if mass in the universe is less than the critical density and there is no dark energy: 
+ 
+W)  it will eventually stop expanding and maintain a constant size 
+X)  it will stop expanding and collapse 
+Y)  it will expand forever 
+Z)  it will expand at an accelerating rate and then nearly collapse, then expand again and continue to 
+oscillate this way forever 
+ 
+ANSWER:  Y)  IT WILL EXPAND FOREVER 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Multiple Choice  Which of the following BEST explains why scientists believe the 
+early universe up to a few hundred thousand years old was opaque: 
+ 
+W)  deuterium at those temperatures absorbed all electromagnetic radiation 
+X)  there was no electromagnetic radiation 
+Y)  free electrons scattered photons and prevented them from traveling very far  
+Z)  the temperature had cooled so far that space without stars was a dark void 
+ 
+ANSWER:  Y)  FREE ELECTRONS SCATTERED PHOTONS AND PREVENTED THEM 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  Which of the following is NOT true: 
+ 
+W)  electrons are directly affected by the strong nuclear force 
+X)  general relativity predicts the existence of black holes 
+Y)  a deuterium atom has two nucleons  
+Z)  many cosmologists believe that neutrinos make up about as much mass as all the stars in the 
+universe 
+ 
+ANSWER:  W)  ELECTRONS ARE DIRECTLY AFFECTED BY THE STRONG NUCLEAR 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Short Answer  Ashley, who weighs 450 newtons, is with her dad at the playground, 
+and she is sitting on a swing that is 0.60 meters above the ground.  Her dad pulls her back and lets 
+her go when the swing is 1.1 meters above the ground.  How fast, in meters per second to the first 
+decimal place, is Ashley moving when the swing passes through its lowest position? 
+ 
+ANSWER:  3.1  (ACCEPT:  3.2) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Multiple Choice  Which of the following is MOST closely related to the movement 
+of charge in non-ceramic superconductors: 
+ 
+W)  charge confinement 
+X)  Josephson effect 
+Y)  Cooper pairs 
+Z)  Hall movement 
+ 
+ANSWER:  Y)  COOPER PAIRS 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Multiple Choice  Which of the following is NOT a standard characteristic of a laser: 
+ 
+W)  coherent beam 
+X)  optical gain 
+Y)  distinctly identifiable pumping threshold 
+Z)  distinctly identifiable pumping turn-off 
+ 
+ANSWER:  Z)  DISTINCTLY IDENTIFIABLE PUMPING TURN-OFF 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+23)  PHYSICS  Short Answer  As reported recently in the journal Science, researchers have 
+succeeded in producing a high efficiency organic LED.  They began with a blue emitting system and 
+then added a single color light emitting phosphor to obtain white light.  What was the single color 
+phosphor they used? 
+ 
+ANSWER:  YELLOW 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+23)  PHYSICS  Short Answer  A sphere of radius 1 meter contains uniformly distributed charge of 
+charge density rho.  Assuming ρ/ε0 (rho over epsilon-naught) equals 30 volts per meter squared, 
+what is the magnitude of electric field at a radius of 0.5 meters? 
+ 
+ANSWER:  5 V/m 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Short Answer  What is the most common term for what Einstein first proposed to 
+operate in empty space, but later rejected as his greatest blunder following Hubble’s discovery of the 
+expansion of the universe? 
+ 
+ANSWER:  COSMOLOGICAL CONSTANT 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Short Answer  Name all of the following 4 particles that are leptons:   
+muon,  photon,  tau,  electron 
+ 
+ANSWER:  MUON;  TAU;  ELECTRON  (ACCEPT:  ALL BUT PHOTON) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Short Answer  What is the scientific term for a change in velocity per unit time? 
+ 
+ANSWER:  ACCELERATION 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Short Answer  What is the most common term in physics for the product of mass 
+times velocity? 
+ 
+ANSWER:  MOMENTUM 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Multiple Choice. The amplitude of a sound wave most closely relates to its: 
+ 
+W)  frequency 
+X)  wavelength 
+Y)  loudness 
+Z)  overtones  
+ 
+ANSWER. Y)  LOUDNESS 
+ 
+
+BONUS 
+ 
+10)  PHYSICS Short Answer  What property of a sound wave most directly determines the pitch of a 
+violin’s note? 
+ 
+ANSWER:  FREQUENCY 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS Short Answer  What property of a sound wave most directly determines the pitch of a 
+violin’s note? 
+ 
+ANSWER:  FREQUENCY 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  Which of the following is the most common term for the general 
+type of wave that results from the vibration of a physical medium: 
+ 
+W)  mechanical 
+X)  electromagnetic 
+Y)  perfect 
+Z)  pulsed 
+ 
+ANSWER:  W)  MECHANICAL 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Multiple Choice  Which of the following is LEAST accurate: 
+ 
+W)  alpha particles are the same as helium nuclei 
+X)  polarization of light supports the particle behavior of light 
+Y)  a photon is a particle of light 
+Z)  light slows down when it moves from a vacuum into glass 
+ 
+ANSWER:  X)  POLARIZATION OF LIGHT SUPPORTS THE PARTICLE BEHAVIOR OF 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Multiple Choice  A circuit with 2 different resistors wired in series will have a total 
+resistance that is: 
+ 
+W)  equal to the sum of the two resistances 
+X)  less than either resistance 
+Y)  equal to that of the greater resistance 
+Z)  equal to that of the lesser resistance 
+ 
+ANSWER:  W)  EQUAL TO THE SUM OF THE TWO RESISTANCES 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  What is the most common isotope of carbon? 
+ 
+ANSWER:  CARBON-12  (ACCEPT:  C-12 or 12) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Multiple Choice  If a car is going around a corner, which of the following statements 
+correctly describes the relationship among the speeds of the wheels on the car: 
+ 
+W)  the wheels all rotate at the same speed  
+X)  the wheels on the inside of the corner rotate faster because they have less distance to travel 
+Y)  the wheels on the inside of the corner rotate faster because they have more distance to travel  
+Z)  the wheels on the outside of the corner rotate faster because they have more distance to travel 
+ 
+ANSWER:  Z)  THE WHEELS ON THE OUTSIDE OF THE CORNER ROTATE FASTER 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Short Answer  How many kilometers will a mosquito travel in 9.5 hours if it moves in 
+a straight path with an average speed of 8 kilometers per hour? 
+ 
+ANSWER:  76 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  Which of the following is the SI unit for the product of newtons and 
+meters: 
+ 
+W)  henry 
+X)  watt 
+Y)  erg 
+Z)  joule  
+ 
+ANSWER:  Z)  JOULE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Multiple Choice  In a gearing arrangement where a 10-tooth pinion drives a 40-tooth 
+gear, what is the gear ratio: 
+ 
+W)  1 to 4 
+X)  4 to 1 
+Y)  1 to 10 
+Z)  40 to 1 
+ 
+ANSWER:  X)  4 TO 1 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Short Answer  Giving your answer as north, south, east, or west relative to a point on 
+the Equator, in what direction is the Earth’s angular velocity as it rotates daily about its axis? 
+ 
+ANSWER:  NORTH 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Multiple Choice  Ignoring air resistance, wind velocity, and the rotation of the Earth, 
+if a projectile is fired directly upwards, the horizontal component of the projectile’s velocity: 
+ 
+W)  is zero 
+X)  remains a non zero constant 
+Y)  continuously increases 
+Z)  continuously decreases 
+ 
+ANSWER:  W)  IS ZERO 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+23)  PHYSICS  Multiple Choice  Neglecting air resistance, at what angle above the horizontal would 
+you aim your garden hose nozzle to obtain the greatest horizontal distance if the nozzle is at ground 
+level: 
+ 
+W)  0º 
+X)  30º 
+Y)  45º 
+Z)  60º 
+ 
+ANSWER:  Y)  45º 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+23)  PHYSICS  Short Answer  Tim hears water dripping from a faucet while trying to take a nap.  If 
+he counts 20 drops in one minute, what is the period of the drops, in seconds? 
+ 
+ANSWER:  3 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Short Answer  What is the SI unit given to a volt per ampere? 
+ 
+ANSWER:  OHM 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Short Answer  What is the current, in amperes, for a 3600-watt electric conveyor 
+operating on a 240-volt power source? 
+ 
+ANSWER:  15  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+1)  PHYSICS  Multiple Choice  The slope of a velocity versus time graph represents: 
+ 
+W)  acceleration 
+X)  velocity 
+Y)  position 
+Z)  displacement 
+ 
+ANSWER:  W)  ACCELERATION 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+1)  PHYSICS  Multiple Choice  Under which of the following conditions is the average velocity 
+equal to the average of an object’s initial and final velocity: 
+ 
+W)  always  
+X)  never  
+Y)  only when the acceleration changes  
+Z)  only when the acceleration is constant  
+ 
+ANSWER:  Z)  ONLY WHEN THE ACCELERATION IS CONSTANT 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Short Answer  Stories have been told about opera singers breaking crystal glass by 
+singing a certain tone loud enough.  What is the most common term for the property that would 
+account for this happening? 
+ 
+ANSWER:  RESONANCE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Short Answer  What is the wavelength, in meters, of a sound wave that has a 
+frequency of 600 hertz and a speed in a certain medium of 360 meters per second? 
+  
+ANSWER:  0.6  
+------------------------------------------------------------------------------------------
+
+ 
+15)  PHYSICS  Multiple Choice  The area under the curve of a velocity versus time graph 
+represents: 
+ 
+W)  acceleration 
+X)  velocity 
+Y)  displacement 
+Z)  position  
+ 
+ANSWER:  Y)  DISPLACEMENT 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+15)  PHYSICS  Multiple Choice  Which of the following is NOT true: 
+ 
+W)  a spring scale can be used to indirectly measure acceleration 
+X)  momentum is a vector 
+Y)  impulse is a vector 
+Z)  a change in direction of an object’s motion cannot affect its momentum 
+ 
+ANSWER:  Z)  A CHANGE IN DIRECTION OF AN OBJECT’S MOTION CANNOT AFFECT 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  What is the mass, in kilograms, of a 5-kilogram rock on a planet with 
+a gravitational acceleration one-half that of the Earth’s? 
+ 
+ANSWER:  5 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  What is the specific gravity, to the first decimal place, of a cubic foot 
+of metal that has a density of 188 pounds per cubic foot if water has a density of 62.4 pounds per 
+cubic foot? 
+ 
+ANSWER:  3.0 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  For a given time interval, when is the average velocity of an object 
+equal to the instantaneous velocity for every time in the interval: 
+ 
+W)  never 
+X)  always 
+Y)  only when the velocity is changing at a constant rate 
+Z)  only when the velocity is constant 
+ 
+ANSWER: Z)  ONLY WHEN THE VELOCITY IS CONSTANT 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Multiple Choice  In a tug-of-war, each person on a team pulls with an average force 
+of 500 newtons.  What is the tension in the center of the rope if there are 10-man teams on each side: 
+ 
+W)  0 newtons 
+X)  2,500 newtons 
+Y)  5,000 newtons 
+Z)  10,000 newtons 
+ 
+ANSWER:  Y)  5,000 NEWTONS 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Short Answer  What are typically given as the two parameters of a velocity vector? 
+ 
+ANSWER:  MAGNITUDE AND DIRECTION  (ACCEPT:  SPEED FOR MAGNITUDE) 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Multiple Choice  Which of the following conditions must be true for Hooke’s law to 
+apply: 
+ 
+W)  the spring must be within its proportional elastic limit 
+X)  the spring must me made of cold formed steel coils 
+Y)  the deflection of the spring must be less than one tenth the spring’s free length 
+Z)  the carbon content of the metal must be over 0.023 percent 
+ 
+ANSWER:  W)  THE SPRING MUST BE WITHIN ITS PROPORTIONAL ELASTIC LIMIT 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Short Answer  Which one of the following 5 colors of light has the LEAST angle of 
+refraction in normal glass:  blue;  green;  orange;  yellow;  red 
+ 
+ANSWER:  RED 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Short Answer  For a standing wave on a guitar string, the first overtone represents 
+what harmonic? 
+ 
+ANSWER:  SECOND 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  At normal operating speed for a motor vehicle, how many times as 
+much kinetic energy does a car have if its velocity is doubled?  
+ 
+ANSWER:  4 TIMES 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  Relative to the floor, what is the gravitational potential energy, in 
+joules, of a 25-newton bag of beans on a shelf 5 meters above the floor? 
+ 
+ANSWER:  125 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Short Answer  What color of light is produced when equal intensities of cyan light 
+and red light are combined? 
+ 
+ANSWER:  WHITE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Short Answer  What is the resistance, in ohms, for an electric stove that draws 24 
+amps on a 240-volt circuit? 
+ 
+ ANSWER:  10  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  Which of the following colors of light would give the highest 
+resolving power of a compound light microscope: 
+ 
+W)  infrared  
+X)  orange  
+Y)  green 
+Z)  ultraviolet 
+ 
+ANSWER:  Z)  ULTRAVIOLET 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Short Answer  If  Jim expends 200 watts of power to vertically lift a 200-newton rock 
+3 meters high, how many seconds did it take him to lift the boulder? 
+ 
+ANSWER:  3 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Multiple Choice  Which of the following is NOT a composite material: 
+ 
+W)  bone 
+X)  plywood 
+Y)  wood 
+Z)  mild steel 
+ 
+ANSWER:  Z)  MILD STEEL 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Short Answer  If  a 5,000-pound elephant is on one end of a plank at a distance of 5 
+feet from the pivot point and a 200-pound man is on the other end at a distance of 15 feet from the 
+pivot, what will the available torque be, in foot-pounds, at the pivot while the plank is in motion? 
+ 
+ANSWER:  22,000 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+23)  PHYSICS  Multiple Choice  In an application where ductility is required, which of the 
+following materials would be your BEST choice: 
+ 
+W)  grey cast iron  
+X)  copper 
+Y)  granite 
+Z)  1040 steel 
+ 
+ANSWER:  X)  COPPER 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+23)  PHYSICS  Multiple Choice  Which of the following statements is NOT correct: 
+ 
+W)  percent elongation compared to the known value for a material is sometimes used to detect 
+impurities in metal 
+X)  the modulus of elasticity for a material is derived from its stress-strain curve 
+Y)  ductile materials usually fail with little or no plastic deformation 
+Z)  a steel sample that is loaded beyond its elastic limit will not return to its original shape when the 
+load is removed 
+ 
+ANSWER:  Y)  DUCTILE MATERIALS USUALLY FAIL WITH LITTLE OR NO PLASTIC 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Multiple Choice  Which of the following have largely replaced vacuum tubes that 
+were used in electronics of the mid to later 20th century: 
+ 
+W)  capacitors 
+X)  transformers 
+Y)  transistors  
+Z)  amplifiers 
+ 
+ANSWER:  Y)  TRANSISTORS 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Multiple Choice  Which of the following is NOT true of uranium: 
+ 
+W)  it is very dense 
+X)  all isotopes are radioactive 
+Y)  uranium is sometimes used in counterweights in yacht keels 
+Z)  there are only 3 isotopes of uranium 
+ 
+ANSWER:  Z)  THERE ARE ONLY 3 ISOTOPES OF URANIUM 
+------------------------------------------------------------------------------------------
+
+ 
+1)  PHYSICS  Short Answer  What is the resulting electrical potential, in volts, when a charge of 12 
+coulombs is applied to a 1 farad capacitor? 
+ 
+ANSWER:  12 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+1)  PHYSICS  Multiple Choice  Which of the following is NOT true: 
+ 
+W)  the magnetic field associated with the current on a straight long wire is inversely proportional to 
+the distance from the wire 
+X)  Kirchhoff’s first rule has to do with the accounting of total charges entering and leaving a 
+junction per unit time 
+Y)  superconducting quantum interference devices, or SQUID’s, are based on the Josephson Effect 
+Z)  resistance and voltage are the two most common parameters used to characterize a resistor 
+ 
+ANSWER:  Z)  RESISTANCE AND VOLTAGE ARE THE TWO MOST COMMON 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Multiple Choice  Which of the following is the strongest spectral line in the visible 
+region of the hydrogen spectrum: 
+ 
+W)  red Balmer line 
+X)  orange Lyman line 
+Y)  green Paschen line 
+Z)  blue Brackett line 
+ 
+ANSWER:  W)  RED BALMER LINE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Multiple Choice  Which of the following has the highest vapor pressure at standard 
+temperature and pressure: 
+ 
+W)  mercury 
+X)  ethyl alcohol 
+Y)  methyl alcohol 
+Z)  acetone 
+ 
+ANSWER:  Z)  ACETONE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+15)  PHYSICS  Multiple Choice  If 1000 pounds is applied to a spring with spring constant of 100 
+pounds per inch on top of a hydraulic piston, how many pounds of force is transferred to the piston: 
+ 
+W)  1,000  
+X)  900  
+Y)  100 
+Z)  zero 
+ 
+ANSWER:  W)  1,000  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+15)  PHYSICS  Multiple Choice  If the atomic mass of carbon-12 is exactly 12 atomic mass units, 
+why is the atomic mass of carbon not exactly 12 when listed on the Periodic Table: 
+ 
+W)  the mass deficit 
+X)  neutrons are not the same mass as protons 
+Y)  it adds the mass of the electrons 
+Z)  the presence in nature of about 1.1% carbon-13 
+ 
+ANSWER:  Z)  THE PRESENCE IN NATURE OF ABOUT 1.1% CARBON-13 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  How many nodes are there in the first overtone in a standing wave of 
+a vibrating guitar string? 
+ 
+ANSWER:  3    
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  If g = 9.8 meters per second squared, to the first decimal place and in 
+newtons, how many newtons of force are required to keep a 500 kilogram slab of granite moving 
+across a horizontal surface at constant speed if there is a kinetic frictional coefficient of 0.10 
+between the surface and the slab? 
+ 
+ANSWER:  490 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  Astrophysicists, when referring to interstellar gases, typically use 
+the Roman numeral I to indicate that an atom is: 
+ 
+W)  singly ionized 
+X)  doubly ionized 
+Y)  contains one proton 
+Z)  neutral 
+ 
+ANSWER:  Z)  NEUTRAL 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Short Answer  A draft horse has a hoof print of 50 square inches per hoof.  If the 
+horse weighs 1,400 pounds, what is the pressure it exerts, in pounds per square inch, on the ground 
+when all its hooves equally distribute its weight on the ground? 
+ 
+ANSWER:  7 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Multiple Choice  In the ray approximation in optics, which of the following is NOT 
+true for a converging lens: 
+ 
+W)  a ray parallel to the optical axis passes through the focus 
+X)  a ray passing through the center of the lens is bent parallel to the optical axis  
+Y)  an object at infinity is imaged at the focus 
+Z)  a ray passing through the focus is bent parallel to the optical axis 
+ 
+ANSWER:  X)  A RAY PASSING THROUGH THE CENTER OF THE LENS IS BENT 
+------------------------------------------------------------------------------------------
+
+BONUS 
+10)  PHYSICS  Multiple Choice  Which of the following is NOT true: 
+ 
+W)  electrical utilities deliver electricity over long distances at high voltages to reduce power loss 
+X)  in typical modern vacuum tubes, the cathode supplies the electrons 
+Y)  Faraday’s law of induction is a general guide for induction of EMF with a magnetic field 
+Z)  a typical voltmeter can be used to reliably test how much life is left in a double-A battery 
+ 
+ANSWER:  Z)  A TYPICAL VOLTMETER CAN BE USED TO RELIABLY TEST HOW MUCH 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  Huygen’s principle can be used to most directly derive which of 
+the following: 
+ 
+W)  the speed of light 
+X)  the law of diffraction 
+Y)  the laws of reflection and refraction 
+Z)  Fermat’s Principle 
+ 
+ANSWER:  Y)  THE LAWS OF REFLECTION AND REFRACTION 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Multiple Choice  When utilizing dissimilar metals in a device that operates over a 
+large temperature range, which of the following factors is most important to consider in determining 
+internal stresses: 
+ 
+W)  ductility 
+X)  hardenability 
+Y)  conductivity 
+Z)  coefficients of thermal expansion  
+ 
+ANSWER:  Z)  COEFFICIENTS OF THERMAL EXPANSION  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  How many times as intense is 60 decibels than 30 decibels? 
+ 
+ANSWER:  1,000 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  What is the minimal force, in newtons to the first decimal place, that a 
+mother must exert to vertically lift her 4 kilogram baby out of her play pen? 
+ 
+ANSWER:  39.2 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+2)  PHYSICS  Multiple Choice  In response to the development of incandescent lights, gas lights 
+were vastly improved by soaking the mantles in what substance to help convert heat and UV energy 
+into visible light: 
+ 
+W)  thorium oxide 
+X)  titanium dioxide 
+Y)  uranium oxide 
+Z)  tungsten 
+ 
+ANSWER:  W)  THORIUM OXIDE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2)  PHYSICS  Short Answer  A hunter uses a 30-gram arrow that is fired by a bowstring at a velocity 
+of 56 meters per second.  What is the impulse on the arrow, to the second decimal place in kilogram 
+meters per second? 
+ 
+ANSWER:  1.68 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+9)  PHYSICS  Multiple Choice  Which of the following is the BEST expression of the speed of 
+sound waves in various media: 
+ 
+W)  the product of the elastic property times the inertial property 
+X)  the value of the inertial property divided by the elastic property 
+Y)  the value of the elastic property divided by the inertial property 
+Z)  the square root of the elastic property divided by the inertial property 
+ 
+ANSWER:  Z)  THE SQUARE ROOT OF THE ELASTIC PROPERTY DIVIDED BY THE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+9)  PHYSICS  Short Answer  If a mandolin string is tuned to 880 hertz and is 28-centimeters long, 
+what is the wavelength, in meters rounded to the second decimal place, of the sound wave produced 
+by this string, assuming that the instrument is at 20ºC and that the speed of sound is 343 
+meters/second? 
+ 
+ANSWER:  0.39 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+16)  PHYSICS  Multiple Choice  The index of refraction for a medium is: 
+ 
+W)  the ratio of the angles of refraction of red light and blue light in the medium 
+X)  the angle of refraction for monochromatic light in the medium 
+Y)  the ratio of the speed of light in the medium to the speed of light in a vacuum 
+Z)  the ratio of the speed of light in a vacuum to the speed of light in the medium 
+ 
+ANSWER:  Z)  THE RATIO OF THE SPEED OF LIGHT IN A VACUUM TO THE SPEED OF 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+16)  PHYSICS  Short Answer  If light of a single wavelength of 600 nanometers moves from air into 
+a medium with a refractive index of 1.25, what is the wavelength, in nanometers, of the light as it 
+travels in the denser medium? 
+ 
+ANSWER:  480 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+23)  PHYSICS  Short Answer  How many 20-ohm resistors connected in parallel will produce 5 
+ohms of equivalent resistance? 
+ 
+ANSWER:  4 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+23)  PHYSICS  Short Answer  Assuming g = 10 meters per second squared, how many total newtons 
+of thrust are needed to accelerate a 5,000-kilogram rocket vertically at 6 meters per second squared? 
+ 
+ANSWER:  80,000 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+25)  PHYSICS  Short Answer  How many watts are equivalent to 1 joule of energy expended per 
+minute of time? 
+ 
+ANSWER:  1/60  (ACCEPT:  0.016 or 0.017 or 0.0166 or 0.0167) 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+25)  PHYSICS  Short Answer  Michael, who has a mass of 100 kilograms, tries to ski jump with a 
+velocity of 15 meters per second.  What is Michael’s momentum, in proper SI units, as he leaves the 
+ski jump? 
+ 
+ANSWER:  1500 KILOGRAM METERS PER SECOND 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+1)  PHYSICS  Multiple Choice  Resonance in a musical instrument is MOST directly exemplified 
+by: 
+ 
+W)  sympathetic harmonic vibration  
+X)  destructive interference  
+Y)  dissonance in the standing wave 
+Z)  diffraction 
+ 
+ANSWER:  W)  SYMPATHETIC HARMONIC VIBRATION 
+------------------------------------------------------------------------------------------
+
+BONUS 
+1)  PHYSICS  Short Answer  The specific heat of a certain metal is 0.750 joules per gram kelvin.  
+How much heat, in joules to the nearest whole number, will it take to increase the temperature of  
+0.50 kilograms of the metal from 25ºC to 50ºC? 
+ 
+ANSWER:  9,375  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Short Answer  What is the acceleration, in meters per second squared, of a  
+10-kilogram snow sled that is on a frictionless horizontal surface if a horizontal force of 500 newtons 
+is applied to it? 
+ 
+ANSWER:  50  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Multiple Choice  What is the speed of light in meters per second for monochromatic 
+light of 780 nanometers in glass with a refractive index of 1.55: 
+ 
+W)  1.5 × 108  
+X)  1.9 × 108 
+Y)  4.65 × 107 
+Z)  4.65 × 108 
+ 
+ANSWER:  X) 1.9 × 108 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+15)  PHYSICS  Multiple Choice  Which of the following is generally NOT true regarding diffraction 
+of light: 
+ 
+W)  when white light is passed through a diffraction grating, shorter wavelengths are diffracted the 
+most 
+X)  diffraction is wavelength dependent 
+Y)  if laser light is passed through a diffraction grating it will produce an interference pattern as a 
+series of dots on a screen 
+Z)  white light passing through a diffraction grating is spread into a rainbow of colors 
+ 
+ANSWER:  W)  WHEN WHITE LIGHT IS PASSED THROUGH A DIFFRACTION GRATING, 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+15)  PHYSICS  Short Answer  A 300-newton box is placed on an inclined plane that makes a 45º 
+angle with the horizontal.  Find the component of the box’s weight parallel to the plane’s surface, in 
+newtons to the nearest whole number: 
+ 
+ANSWER:  212  (ACCEPT:  213) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  The lens-maker’s equation relates the focal length of a glass lens to 
+the radii of curvature of the lens’s two surfaces and what other property of the lens? 
+  
+ANSWER:  INDEX OF REFRACTION  (ACCEPT:  REFRACTIVE INDEX)  
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  Green light has a wavelength of 500 nanometers.  What is its 
+associated frequency, in hertz? 
+ 
+ANSWER:  6 × 1014  
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Multiple Choice  A charged particle moves through an area of space at a constant 
+speed and direction. Which of the following statements is TRUE? 
+ 
+W) There is no magnetic field 
+X) There could be magnetic and electric fields oriented in the same direction 
+Y) There could be magnetic and electric fields oriented perpendicularly to one another 
+Z) There could be magnetic and electric fields oriented opposite to one another 
+ 
+ANSWER:  Y) THERE COULD BE MAGNETIC AND ELECTRIC FIELDS ORIENTED 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+3) PHYSICS  Short Answer  A household appliance runs on 120 volts and has an internal 
+resistance of 100 ohms. Providing your answer to the nearest integer, how much power, in 
+watts, does this appliance use? 
+ 
+ANSWER:  144 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+6) PHYSICS  Multiple Choice  Which of the following is TRUE of beta particles? 
+ 
+W) They have a charge equal and opposite to alpha particles 
+X) They are more penetrating than gamma particles of the same energy 
+Y) They are common decay products of alpha particles 
+Z) They can be electrons or positrons 
+ 
+ANSWER:  Z) THEY CAN BE ELECTRONS OR POSITRONS 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+6) PHYSICS  Short Answer  The resistance of a certain wire is 10 ohms. What would be the 
+resistance in ohms if the radius of the wire were doubled? 
+ 
+ANSWER:  2.5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Short Answer  Given g as 10 meters per second squared, if a ball is tossed 
+upward at an initial velocity of 20 meters per second, what will be its velocity in meters per 
+second at 2.5 seconds? 
+ 
+ANSWER:  -5 (ACCEPT: 5 DOWN; DO NOT ACCEPT: 5) 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+8) PHYSICS  Short Answer  The frequency of light from a laser radiation source is 6 X 1014 
+hertz. Using 3 X 108 meters per second as the speed of light, what is the wavelength of this light 
+in nanometers? 
+ 
+ANSWER:  500 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+12) PHYSICS  Short Answer  Applying Bernoulli's principle to vortices, where in a vortex should 
+the pressure be highest? 
+ 
+ANSWER:  CENTER (ACCEPT: MIDDLE) 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+12) PHYSICS  Short Answer  Providing your answer as a decimal rounded to the nearest tenth, 
+if a normal force of 1 newton is applied to the end of a fixed cylinder with a radius of 1 meter, 
+what pressure, in pascals, is induced in the cylinder? 
+ 
+ANSWER:  0.3 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+19) PHYSICS  Multiple Choice  An elephant steps on an electrical extension cord that is 
+connected to a lit lamp. Assuming that the lamp remains plugged in and the cord unbroken, 
+which of the following happens to the light intensity coming from the lamp? 
+ 
+W) It goes out 
+X) It becomes dimmer 
+Y) It becomes brighter 
+Z) It is unchanged 
+ 
+ANSWER:  Z) IT IS UNCHANGED 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+19) PHYSICS  Short Answer  If a fuse can dissipate 600 watts of power without blowing, how 
+much current, in amperes, can it pass at 120 volts without melting? 
+ 
+ANSWER:  5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+4) PHYSICS  Short Answer  A 4-kilogram ball is tossed at 5 meters per second. How fast, in 
+meters per second, must a 1-kilogram ball be thrown to have the same kinetic energy? 
+ 
+ANSWER:  10 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+4) PHYSICS  Short Answer  A jogger is moving at a speed of 4 meters per second. When 
+chased by a big dog, she accelerates at 1 meter per second squared for 4 seconds. How far 
+has she travelled in meters since she started accelerating? 
+ 
+ANSWER:  24 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+13) PHYSICS  Short Answer  If in a 2-piston hydraulic device, a 100-newton force is applied to a 
+piston with an area of 0.01 square meters, what will be the resulting force, in newtons, on a 
+piston with an area of 0.5 square meters? 
+ 
+ANSWER:  5000 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+13) PHYSICS  Short Answer  What is the centripetal acceleration in meters per second squared 
+of a point on a bicycle tire of radius 0.81 meters when the bike is moving at 9 meters per 
+second? 
+ 
+ANSWER:  100 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+16) PHYSICS  Short Answer  How many layers of doped silicon are needed to make a 
+transistor? 
+ 
+ANSWER:  3 
+------------------------------------------------------------------------------------------
+
+ 
+16) PHYSICS  Short Answer  A thin copper rod 1 meter long has a mass of 0.05 kilograms and 
+is in a magnetic field of 0.10 teslas. Given 10 meters per second squared for g, what is the 
+minimum current in amperes needed in the rod for the magnetic force to cancel the weight of 
+the rod? 
+ 
+ANSWER:  5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+18) PHYSICS  Multiple Choice  On a game show, contestants spin a large wheel to determine 
+the prize associated with correct answers. How should a contestant apply force to spin the 
+wheel as rapidly as possible? 
+ 
+W) Tangential to the rim of the wheel 
+X) At a 45 degree angle to the rim of the wheel 
+Y) Away from the center of the wheel 
+Z) Towards the center of the wheel 
+ 
+ANSWER:  W) TANGENTIAL TO THE RIM OF THE WHEEL 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+18) PHYSICS  Short Answer  Nitrogen molecules of mass 4.65 x 10−26 kilograms are contained 
+in a cube with sides that have an area of 6 x 10−4 square meters. If 5.0 x 1023 molecules collide 
+head on elastically each second with one wall at a speed of 300 meters per second, what is the 
+pressure exerted on the wall to the nearest kilopascal? 
+ 
+ANSWER:  23 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+22) PHYSICS  Multiple Choice  If gE and gM are the accelerations due to gravity on the surfaces 
+of Earth and the Moon respectively, and if Millikan’s oil drop experiment could be performed on 
+the two surfaces, the ratio of the electronic charge on the Moon to the electronic charge on the 
+Earth would be which of the following? 
+ 
+W) gE/gM  
+X) 1 
+Y) gM/gE  
+Z) (gM/gE)
+
+2 
+ 
+ANSWER:  X) 1 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+22) PHYSICS  Short Answer  Providing your answer in scientific notation with two significant 
+digits, how much energy in joules is required to heat a clay pizza baking stone with mass of 4.8 
+kilograms and a specific heat of 860 joules per kilogram Kelvin from 25° Celsius to 235° 
+Celsius?  
+ 
+ANSWER:  8.7 × 105 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Multiple Choice  Which of the following is TRUE about the electric field just 
+outside the surface of a charged spherical conductor? 
+ 
+W) It is zero 
+X) It is infinitely large 
+Y) It is directed perpendicularly to the surface 
+Z) It is directed parallel to the surface 
+ 
+ANSWER:  Y) IT IS DIRECTED PERPENDICULARLY TO THE SURFACE 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+3) PHYSICS  Short Answer  A projectile is launched over level ground with a velocity of 100 
+meters per second at an angle of 30 degrees to the horizontal. Given that the acceleration due 
+to gravity is 10 meters per second squared, what will be the horizontal range of this projectile 
+rounded to the nearest meter? 
+ 
+ANSWER:  866  
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+6) PHYSICS  Short Answer  How much work, in joules, is done on a 2000-kilogram car by 
+applying a 1000-newton force to move it 20 meters? 
+ 
+ANSWER:  20,000 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+6) PHYSICS  Short Answer  A 50-kilogram person in an elevator is moving upward at a velocity 
+of 2 meters per second. Given g as 9.8 meters per second squared, and providing your answer 
+to the nearest ten, how much force, in newtons, is she exerting on the elevator floor?  
+ 
+ANSWER:  490 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Short Answer  A thermodynamic process that takes place at a constant pressure 
+can be described by what adjective? 
+ 
+ANSWER:  ISOBARIC 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+8) PHYSICS  Short Answer  Using 9.8 meters per second squared for g and expressing your 
+answer in scientific notation to one significant digit, what is the water pressure, in newtons per 
+square meter, at a depth of 2 meters in a swimming pool? 
+ 
+ANSWER:  2 × 104 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+12) PHYSICS  Short Answer  An electrical field does 6 joules of work on a charged particle, 
+moving it from 1 volts to 3 volts. What is the charge of the particle in coulombs? 
+ 
+ANSWER:  3 (ACCEPT: - 3) 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+12) PHYSICS  Short Answer  Given g as 10 meters per second squared and the speed of 
+sound as 331 meters per second, if you dropped a pebble down a well and heard a splash 3 
+seconds later, approximately how far down, in meters rounded to the nearest ten, was the 
+water? 
+ 
+ANSWER:  40 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+19) PHYSICS  Multiple Choice  A bucket of hot oil weighing 50 newtons is lifted at constant 
+velocity up a castle wall that is 10 meters high. It takes 20 seconds to raise the bucket up the 
+wall. How much power was used to raise the bucket? 
+ 
+W) 25 watts 
+X) 25 joules 
+Y) 500 joules 
+Z) 500 watts 
+ 
+ANSWER:  W) 25 WATTS 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+19) PHYSICS  Short Answer  A 3.5 ampere current is maintained in a simple circuit with a total 
+resistance of 1500 ohms. In coulombs, what net charge passes through any point in the circuit 
+during a 30-second interval? 
+ 
+ANSWER:  105 
+------------------------------------------------------------------------------------------
+
+ 
+1) PHYSICS  Short Answer  A monochromatic light source incident on a diffraction grating with 
+slit separation d produces a pattern on the wall. What diffraction slit spacing would be required 
+to produce the same pattern on the wall using light of twice the wavelength? 
+ 
+ANSWER:  2d 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+1) PHYSICS  Short Answer  A 10-gram bullet is shot with an initial velocity of 600 meters per 
+second into a 2-kilogram ballistic pendulum and emerges from the pendulum with a speed of 
+200 meters per second. Given 10 meters per second squared as g, to what height in meters 
+does the pendulum rise? 
+ 
+ANSWER:  0.2 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Multiple Choice  Consider charges +Q and +4Q, separated by 3 meters. At which 
+of the following points on a line between the two charges can a charge –Q be placed so that it 
+will experience no electrostatic force? 
+ 
+W) 1 meter from +Q 
+X) 1 meter from +4Q 
+Y) 0.6 meter from +Q 
+Z) 0.6 meter from +4Q 
+ 
+ANSWER:  W) 1 METER FROM +Q 
+------------------------------------------------------------------------------------------
+
+ 
+3) PHYSICS  Short Answer  A bucket is filled with water to a depth of 20 centimeters. A layer of 
+oil 30 centimeters thick with a specific gravity of 0.7 is poured on top of the water. Given that 1 
+atmosphere is 1.01 × 105 pascals and providing your answer in scientific notation with three 
+significant digits, what is the absolute pressure, in pascals, at the bottom of the container?  
+ 
+ANSWER:  1.05 × 105 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+7) PHYSICS  Multiple Choice  A common device used to study extreme forms of matter is the 
+magneto-optical trap. Which of the following explains how the trap works? 
+ 
+W) It heats magnetically contained matter with lasers 
+X) It oscillates matter through dipole interactions 
+Y) It uses both magnetic fields and lasers to cool matter 
+Z) It magnetically accelerates matter through optical lens systems 
+ 
+ANSWER:  Y) IT USES BOTH MAGNETIC FIELDS AND LASERS TO COOL MATTER 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+7) PHYSICS  Short Answer  In an experiment, 200 grams of aluminum with a specific heat of 
+0.91 joules per kilogram Kelvin at 100° Celsius is mixed with 50.0 grams of water with a specific 
+heat of 4.2 joules per kilogram Kelvin at 20° Celsius. The mixture is thermally isolated. What is 
+the equilibrium temperature in degrees Celsius? 
+ 
+ANSWER:  57° 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+14) PHYSICS  Multiple Choice  Which of the following statements BEST describes why protons 
+in the nucleus do NOT fly apart due to coulomb repulsion? 
+ 
+W) The negative charges of the orbiting electrons neutralize the positive charges of the protons 
+X) The coulomb force does not manifest within the nucleus 
+Y) Neutrons cancel the coulomb repulsion 
+Z) The strong force between quarks dominates 
+ 
+ANSWER:  Z) THE STRONG FORCE BETWEEN QUARKS DOMINATES 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+14) PHYSICS  Short Answer  A coil is wrapped with 200 turns of wire on a square frame with 
+sides of 20 centimeters in length. A uniform magnetic field is applied perpendicular to the plane 
+of the coil. If the field changes uniformly from 0.5 to 0 teslas in 8 seconds, what is the average 
+value, to the nearest tenth volt, of the induced electromotive force? 
+ 
+ANSWER:  0.5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+23) PHYSICS  Multiple Choice  The resistance of a hot tungsten filament is about 10 times the 
+cold resistance. What is the resistance, in ohms, of a 100 watt and 200 volt lamp filament when 
+not in use? 
+ 
+W) 20 
+X) 40 
+Y) 200 
+Z) 400 
+ 
+ANSWER:  X) 40 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+23) PHYSICS  Short Answer  An object is 48 centimeters tall. Its image is 40 centimeters tall, 
+and 15 centimeters away from a mirror. How far, in centimeters, is the object from the mirror? 
+ 
+ANSWER:  18 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  Which of the following BEST describes the Balmer series: 
+ 
+W)  a series of quantum numbers indicating certain energy levels 
+X)  hydrogen atom spectral line emission  
+Y)  a sequence of elements that are produced chronologically in supernovae 
+Z)  the energy spectrum of the early universe 
+ 
+ANSWER:  X)  HYDROGEN ATOM SPECTRAL LINE EMISSION 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Short Answer  According to the Standard Model of Particle Physics, through what 
+force would the top quark decay? 
+ 
+ANSWER:  WEAK FORCE  (ACCEPT:  WEAK or WEAK INTERACTION) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Multiple Choice  Which of the following has the lowest refractive index at STP: 
+ 
+W)  diamond  
+X)  water 
+Y)  dry air  
+Z)  a  perfect vacuum 
+ 
+ANSWER:  Z)  A  PERFECT VACUUM 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Short Answer  Rounded to the nearest hundred joules, how much work is done in 
+pulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45º 
+angle with the pond? 
+ 
+ANSWER:  200  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  Which of the following did J. J. Thompson use that primarily led 
+him to conclude that electrons were basic particles of atoms and carried electric charge: 
+ 
+W)  a compass and batteries 
+X)  a solenoid 
+Y)  cathode ray tubes  
+Z)  electromagnets 
+ 
+ANSWER:  Y)  CATHODE RAY TUBES 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Short Answer  Consider a satellite that is a uniform sphere rotating about its axis.  
+What is its moment of inertia, giving your answer in scientific notation and in kilogram meters 
+squared, if it has a mass of 10,000 kilograms and a diameter of 200 meters? 
+ 
+ANSWER:  4 × 107 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  What was the most sensitive device Coulomb used to measure the 
+electric forces between pith balls? 
+ 
+ANSWER:  TORSION BALANCE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  Order the following 3 choices from the MOST penetrating through a 
+thin sheet of cardboard to the LEAST:  beta rays;  alpha rays;  x-rays 
+ 
+ANSWER:  X-RAYS;  BETA RAYS;  ALPHA RAYS 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Short Answer  What is the phrase that describes the process of producing an 
+electron and a positron when a high-energy photon travels through matter, directly converting 
+radiant energy into matter? 
+ 
+ANSWER:  PAIR PRODUCTION 
+------------------------------------------------------------------------------------------
+
+ 
+3) PHYSICS  Short Answer  A living room has floor dimensions of 3.5 meters by 4.2 meters and 
+a height of 2.4 meters. Given air density of 1.2 kilograms per cubic meter, g of 10 meters per 
+second squared, and providing your answer to the nearest ten, what does the air in the room 
+weigh in newtons? 
+ 
+ANSWER:  420 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+6) PHYSICS  Short Answer  The period of revolution of a particle traveling in uniform circular 
+motion is a function of what two variables? 
+ 
+ANSWER:  VELOCITY (ACCEPT: CENTRIPETAL FORCE) AND RADIUS (ACCEPT: 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+6) PHYSICS  Short Answer  You are asked to determine whether a king’s crown is really made 
+of gold. You weigh the crown; it weighs 8 newtons in air and 7 newtons in water. Its volume is 
+0.0001 cubic meters. Given that the density of gold is 19,000 kilograms per cubic meter, the 
+density of lead is 11,000 kilograms per cubic meter, and the density of iron is 8,000 kilograms 
+per cubic meter, the king’s crown is made of which material? 
+ 
+ANSWER:  IRON 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Short Answer  Neglecting friction, a 33-kilogram cart rolls down a slope that is 20 
+meters high and 60 meters long. Using 10 meters per second squared for g, what is the velocity 
+in meters per second at the base of the slope? 
+ 
+ANSWER:  20 
+------------------------------------------------------------------------------------------
+
+ 
+8) PHYSICS  Short Answer  A long straight wire carries a 10 ampere current north. Give the 
+magnitude in teslas and the direction of the magnetic field induced at a point 10 centimeters 
+directly under the wire? 
+ 
+ANSWER: 2 x 10−5 WEST 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+12) PHYSICS  Multiple Choice  If the coulomb constant is 9 × 109 newton meters squared per 
+coulomb squared, what force, in newtons, will two particles with charges of +2 and -2 coulombs 
+kept 2 meters apart exert on each other? 
+ 
+W) 4.5 × 109 away from each other  
+X) 4.5 × 109 toward each other 
+Y) 9.0 ×  109 toward each other 
+Z) 1.8 ×  1010 toward each other 
+ 
+ANSWER:  Y) 9.0 ×  109 TOWARD EACH OTHER 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+12) PHYSICS  Short Answer  Pam buys a pendulum clock at a discount store and discovers 
+when she gets home that it loses 6 minutes each day. If the pendulum has a period of 2 
+seconds, by how much must the length be changed, to the nearest centimeter, so that the clock 
+keeps accurate time? 
+ 
+ANSWER:  1 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+19) PHYSICS  Short Answer  By number, identify all of the following four situations in which an 
+object is NOT in equilibrium: 1) when moving to the right with a constant velocity; 2) when 
+slowing to a stop; 3) when moving with a constant speed in a circle; 4) when in free fall. 
+ 
+ANSWER:  2, 3, AND 4 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+19) PHYSICS  Short Answer  A brass ball with a mass of 200 grams at 20° Celsius is placed in 
+boiling water until it reaches equilibrium. Given that the specific heat of brass is 0.094 
+kilocalories per kilogram degree Celsius, and providing your answer as a decimal to the nearest 
+tenth, how much thermal energy in kilocalories is absorbed by the ball? 
+ 
+ANSWER:  1.5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+2) PHYSICS  Multiple Choice  Which of the following particles are classified as baryons? 
+ 
+W) Weak boson 
+X) Graviton 
+Y) Neutrino 
+Z) Neutron 
+  
+ANSWER:  Z) NEUTRON  
+------------------------------------------------------------------------------------------
+
+ 
+2) PHYSICS  Short Answer  A food shipper pushes a wooden crate of lettuce with a total mass 
+of 14 kilograms across a concrete floor with a constant horizontal force of magnitude 40 
+newtons. In a straight-line displacement of magnitude 0.50 meters, the speed of the crate 
+decreases from 0.60 meters per second to 0.20 meters per second. How much work, in joules, 
+is done by the horizontal force? 
+ 
+ANSWER:  20 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+9) PHYSICS  Multiple Choice  Which of the following best represents a closed system? 
+ 
+W) A 2-liter bottle filled with aquatic plants, a fish, water, and a bit of air, sealed with a tight lid 
+and placed in a window 
+X) A terrarium with a closed lid, some plants, and a live boa constrictor 
+Y) The Earth  
+Z) The universe  
+ 
+ANSWER:  Z) THE UNIVERSE 
+------------------------------------------------------------------------------------------
+
+ 
+9) PHYSICS  Short Answer   An electron microscope enables observation of detail on a virus 
+down to 6 nanometers. Given h as 6.6 x 10−34 joule seconds and the mass of the electron as 9.1 
+x 10−31 kilograms, providing your answer in scientific notation with two significant digits, how fast, 
+in meters per second, must an electron in the microscope be moving to observe detail of this 
+size?  
+ 
+ANSWER:  1.2 × 105 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+18) PHYSICS  Short Answer  Air resistance is a function of the effective cross sectional area of 
+the body, the drag coefficient, and what other two variables? 
+ 
+ANSWER:  AIR DENSITY AND VELOCITY 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+18) PHYSICS  Short Answer  A 2.0 kilogram possum hangs from a tree limb 5 meters above the 
+ground. Assuming that the gravitational potential energy is zero at y = 0 and that g is 9.8 meters 
+per second squared, what is the gravitational potential energy, to the nearest joule, of the 
+possum-Earth system if we take the reference point y = 0 to be 1.0 meters above the limb? 
+ 
+ANSWER:  -20 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+21) PHYSICS  Multiple Choice  Assuming negligible air resistance, which of the following 
+statements is TRUE about two-dimensional projectile motion? 
+ 
+W) The vertical motion is dependent on the horizontal motion 
+X) The horizontal motion is dependent on the vertical motion 
+Y) The horizontal motion and vertical motion are both dependent on the projectile’s acceleration 
+vector  
+Z) The horizontal motion and vertical motion are independent of each other  
+ 
+ANSWER:  Z) THE HORIZONTAL MOTION AND VERTICAL MOTION ARE INDEPENDENT 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+21) PHYSICS  Short Answer  A falling cat reaches a first terminal speed of 100 kilometers per 
+hour while it is tucked in and then stretches out, doubling its effective cross-sectional area 
+without changing its drag coefficient. Providing your answer to the nearest ten, how fast is it 
+falling in meters per second when it reaches a new terminal speed? 
+ 
+ANSWER:  70 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+23) PHYSICS  Multiple Choice  Which of the following is the most accurate description of 
+charging by induction? 
+ 
+W) It depends on putting two objects in actual physical contact with each other 
+X) It depends on the use of friction 
+Y) It depends on the use of a ground to redistribute charges  
+Z) It depends on gain of electrons during chemical reactions 
+ 
+ANSWER:  Y) IT DEPENDS ON THE USE OF A GROUND TO REDISTRIBUTE CHARGES    
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+23) PHYSICS  Short Answer  Providing your answer in scientific notation with one significant 
+digit, calculate the de Broglie wavelength, in meters, of a car with a mass of 1600 kilograms 
+traveling at a speed of 40 meters per second. 
+ 
+ANSWER:  1 × 10−38 
+------------------------------------------------------------------------------------------
+
+ 
+1) PHYSICS  Short Answer  In a totally inelastic collision, what happens to the two colliding 
+objects? 
+ 
+ANSWER:  THEY STICK TOGETHER 
+------------------------------------------------------------------------------------------
+
+ 
+1) PHYSICS  Short Answer  For a uniformly rotating object, what do we call the rate of change 
+in the angle through which the object turns in one second? 
+ 
+ANSWER:  ANGULAR VELOCITY (ACCEPT: ANGULAR SPEED) 
+------------------------------------------------------------------------------------------
+ 
+
+11) PHYSICS  Multiple Choice  If a solid cylinder and a hollow cylinder have the same outer 
+radius and mass, which of the following is true regarding moment of inertia about the cylindrical 
+axis?   
+ 
+W) The hollow cylinder has a greater moment of inertia 
+X) The solid cylinder has a greater moment of inertia 
+Y) The moment of inertia would be the same for both 
+Z) The moment of inertia depends on the speed of the cylinders 
+ 
+ANSWER:  W) THE HOLLOW CYLINDER HAS A GREATER MOMENT OF INERTIA 
+------------------------------------------------------------------------------------------
+ 
+
+11) PHYSICS  Multiple Choice  Many physics quantities fall under two categories: scalars and 
+vectors. Which of the following does NOT contain a scalar quantity?   
+ 
+W) Force, energy, mass 
+X) Velocity, pressure, time 
+Y) Weight, speed, work 
+Z) Acceleration, momentum, displacement 
+ 
+ANSWER:  Z) ACCELERATION, MOMENTUM, DISPLACEMENT  
+------------------------------------------------------------------------------------------
+ 
+
+17) PHYSICS  Multiple Choice  Two sounds of the same intensity will be perceived by the 
+human ear to have the same loudness if:   
+ 
+W) The two sounds have the same pitch 
+X) The two sounds have the same pitch and the same timbre 
+Y) The two sounds have the same timbre 
+Z) The two sounds are below 100 Hertz 
+ 
+ANSWER:  X) THE TWO SOUNDS HAVE THE SAME PITCH AND THE SAME TIMBRE 
+------------------------------------------------------------------------------------------
+
+ 
+17) PHYSICS  Multiple Choice  While waterskiing behind her uncle’s boat, Michelle is pulled at 
+a constant speed with a force of 164 newtons by a rope that is nearly horizontal. If Michelle has 
+a mass of 65 kilograms, what is the coefficient of sliding friction between Michelle and the 
+water?  
+ 
+W) 0.05 
+X) 0.18 
+Y) 0.26 
+Z) 0.40 
+ 
+ANSWER:  Y) 0.26 
+------------------------------------------------------------------------------------------
+ 
+
+21) PHYSICS  Multiple Choice  In 1999, NASA lost a $125 million Mars orbiter because: 
+ 
+W) The atmosphere on Mars was so corrosive that the orbiter was destroyed 
+X) The engine did not fire 
+Y) The robotic arm jilted it out of orbit 
+Z) Lockheed Martin engineers used English units of measurement and NASA used the metric 
+system  
+ 
+ANSWER:  Z) LOCKHEED MARTIN ENGINEERS USED ENGLISH UNITS OF 
+------------------------------------------------------------------------------------------
+ 
+
+21) PHYSICS  Multiple Choice  Arturo, whose mass is 45 kilograms, is riding his 5.0 kilogram 
+skateboard down the sidewalk with a constant speed of 6.0 meters per second when he rolls 
+across a 10.0 meter long patch of sand on the pavement. The sand provides a force of friction 
+of 6.0 newtons. What is Arturo’s speed in meters per second as he emerges from the sand?  
+ 
+W) 0 
+X) 1.8 
+Y) 3.8 
+Z) 5.8 
+ 
+ANSWER:  Z) 5.8 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+3)  PHYSICS  Multiple Choice  Which of the following BEST explains how a radium isotope with a 
+half-life of about 1,600 years can be found in the crust of the Earth that was formed millions of years 
+ago: 
+ 
+W)  its decay is slowed by the pressure of the Earth 
+X)  the radium is replenished by decay of longer lived radioactive elements 
+Y)  the radium was replenished by meteors and asteroids over the millennia  
+Z)  the radium is recycled from the Earth’s core where magnetic fields slow the decay 
+ 
+ANSWER:  X)  THE RADIUM IS REPLENISHED BY DECAY OF LONGER LIVED 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+3)  PHYSICS  Multiple Choice  Which of the following is probably the most significant limitation 
+for PET scans being used in remote rural hospital sites: 
+ 
+W)  lack of properly trained personnel 
+X)  the proximity to production facilities for short-lived radioisotopes 
+Y)  the high level of radiation requiring special training and increased radiation risk 
+Z)  difficulty in PET radiotracers binding to receptors when imaging certain human tissues 
+ 
+ANSWER:  X)  THE PROXIMITY TO PRODUCTION FACILITIES FOR SHORT-LIVED 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+10)  PHYSICS  Short Answer  Name all of the following 3 sub-atomic particles that interact with all 
+4 of the fundamental forces:  electron;  quarks;  neutrino 
+ 
+ANSWER:  QUARKS 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+10)  PHYSICS  Short Answer  Until the Large Hadron Collider came on-line at CERN, what 
+accelerator was generally believed to be the only one energetic enough to produce top quarks? 
+ 
+ANSWER:  TEVATRON   (ACCEPT:  FERMILAB ACCELERATOR) 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+17)  PHYSICS  Multiple Choice  Which of the following BEST describes how one would compute 
+the speed for a sound wave through a liquid: 
+ 
+W)  the square of the density of liquid divided by its bulk modulus 
+X)  the square of the bulk modulus of the liquid divided by its density  
+Y)  the square root of the density of liquid divided by its bulk modulus 
+Z)  the square root of the bulk modulus of the liquid divided by its density 
+ 
+ANSWER:  Z)  THE SQUARE ROOT OF THE BULK MODULUS OF THE LIQUID DIVIDED 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17)  PHYSICS  Short Answer  Name all the leptons that are produced during beta minus decay? 
+ 
+ANSWER:  ELECTRONS AND ANTINEUTRINOS  (ACCEPT:  ELECTRON ANTINEUTRINO 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+24)  PHYSICS  Short Answer  What boson is the only particle predicted by the Standard Model of 
+Particle Physics that had not yet been observed as of June 2008? 
+ 
+ANSWER:  HIGGS BOSON   (ACCEPT: HIGGS) 
+------------------------------------------------------------------------------------------
+ 
+24)  PHYSICS  Short Answer  What boson is the only particle predicted by the Standard Model of 
+Particle Physics that had not yet been observed as of June 2008? 
+ 
+ANSWER:  HIGGS BOSON   (ACCEPT: HIGGS) 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+24)  PHYSICS  Short Answer  Through what two particles is most of the energy released by a star 
+like our Sun? 
+ 
+ANSWER:  PHOTONS AND NEUTRINOS  
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+2) PHYSICS  Short Answer  Turbulent flow is more likely to occur under conditions where 
+Reynolds numbers are high. Under these conditions, what forces are dominant in the system's 
+fluid? 
+ 
+ANSWER:  INERTIAL 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+2) PHYSICS  Short Answer  A 10-meter long cannon is pointed directly up and launches a 1-
+kilogram cannon ball. The cannon ball is accelerated up the length of the cannon with a 
+constant force of 13.2 newtons due to the explosion. Given g as 10 meters per second squared 
+and assuming no energy loss due to friction, what is the velocity, in meters per second, of the 
+cannon ball as it leaves the cannon? 
+ 
+ANSWER:  8 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+9) PHYSICS  Short Answer  If we double the voltage in a simple DC circuit and reduce the 
+resistance by half, what will happen to the value of the current? 
+ 
+ANSWER:  QUADRUPLE 
+------------------------------------------------------------------------------------------
+
+ 
+9) PHYSICS  Short Answer  By name or number, identify all of the following three choices that 
+are apparent differences between a muon and an electron: 1) mass, 2) electric charge, 3) half 
+life? 
+ 
+ANSWER:  MASS AND HALF LIFE (ACCEPT: 1 AND 3)  
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+18) PHYSICS  Short Answer  What is the frequency, in megahertz, of a wave of period 2 × 10−8 
+seconds? 
+ 
+ANSWER:  50 
+------------------------------------------------------------------------------------------
+
+ 
+18) PHYSICS  Short Answer  Given that the heat of fusion of water is 80 kilocalories per 
+kilogram and providing your answer as a decimal to the nearest hundredth, what is the change 
+in entropy per kilogram, in kilocalories per Kelvin, when ice at 0° Celsius is converted into water 
+at 0° Celsius? 
+ 
+ANSWER:  0.29 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+21) PHYSICS  Multiple Choice  An electron is released in space in an electric field. Which of the 
+following statements is TRUE? 
+ 
+W) The electron will accelerate at a rate directly proportional to its mass 
+X) The electron will move parallel to the equipotential lines 
+Y) The field will do work on the particle 
+Z) The electron will move from positive to negative potential 
+ 
+ANSWER:  Y) THE FIELD WILL DO WORK ON THE PARTICLE 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+21) PHYSICS  Multiple Choice  A planet orbits a star in an elliptical orbit. When the planet is 
+furthest from the star, which of the following statements is true? 
+ 
+W) The angular momentum of the planet is at a maximum   
+X) The angular momentum of the planet is at a minimum 
+Y) The kinetic energy of the planet is at a minimum 
+Z) The kinetic energy of the planet is at a maximum 
+ 
+ANSWER:   Y) THE KINETIC ENERGY OF THE PLANET IS AT A MINIMUM 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Short Answer  A train moving at 35 meters per second emits a whistle with a 
+frequency of 900 hertz. Assuming that the speed of sound in air is 350 meters per second, what 
+is the frequency, in hertz, measured by a stationary observer in front of the train? 
+ 
+ANSWER:  1000 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+8) PHYSICS  Short Answer  A particle that is constrained to travel in one dimension moves in 
+simple harmonic motion about the origin with an amplitude of 5 meters and a period of 2 
+seconds. Providing your answer in terms of π, what is the maximum acceleration experienced 
+by the particle in meters per second squared? 
+ 
+ANSWER:   5π2 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+11) PHYSICS  Short Answer  In 15 seconds, 2 × 1013 protons pass a particular point. Given that 
+the charge on the proton is 1.6 ×  10-19 coulombs, and providing your answer as a decimal to the 
+nearest tenth, what is the current in microamperes? 
+ 
+ANSWER:  0.2 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+11) PHYSICS  Multiple Choice  What is the average force, in newtons, exerted on a 25-gram 
+egg by a bed-sheet if the egg hits the sheet at 4 meters per second and takes 0.2 seconds to 
+stop?  
+ 
+W) 0.5 
+X) 1.5 
+Y) 5 
+Z) 50 
+ 
+ANSWER:  W) 0.5 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+13) PHYSICS  Multiple Choice  Which of the following represents one advantage of an 
+electromagnet over a permanent magnet? 
+ 
+W) It does not require a power source 
+X) It does not have magnetic polarity 
+Y) It can be turned on and off by switching current on and off 
+Z) It can readily be found in nature 
+ 
+ANSWER:  Y) IT CAN BE TURNED ON AND OFF BY SWITCHING CURRENT ON AND OFF 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+13) PHYSICS  Short Answer  A 4-ampere current is maintained in a simple circuit with a total 
+resistance of 2 ohms. How much energy in joules is delivered in 45 seconds? 
+ 
+ANSWER:  1440 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+17) PHYSICS  Multiple Choice  Which of the following statements BEST describes specific heat 
+capacity? 
+ 
+W) The amount of thermal energy required to change the temperature of a substance by a 
+certain amount per unit of mass 
+X) The amount of thermal energy required to alter the physical state of a given substance 
+Y) The total amount of thermal energy in a specific system 
+Z) The average kinetic energy of molecules in a system 
+ 
+ANSWER:  W) THE AMOUNT OF THERMAL ENERGY REQUIRED TO CHANGE THE 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+17) PHYSICS  Short Answer  A block with a mass of 20 kilograms is being pulled across a level 
+surface. Assuming other forces are negligible and g is 9.8 meters per second squared, what is 
+the coefficient of friction between the two surfaces if a 60-newton force is required to maintain a 
+constant velocity? Provide your answer as a decimal to the nearest tenth. 
+ 
+ANSWER:  0.3 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+24) PHYSICS  Short Answer  When a proton undergoes beta-plus decay, what two particles are 
+created along with the beta particle? 
+ 
+ANSWER:  NEUTRON AND NEUTRINO 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+24) PHYSICS  Short Answer  A position-time graph for position x and time t is defined by the 
+equation x = -t2 + 4t for t ≥ 0. If positive represents forward motion and negative represents 
+backward motion, during which time intervals in seconds would motion be forward and 
+backward, respectively? 
+ 
+ANSWER:  FORWARD FOR t < 2 (ACCEPT: 0 ≤ t < 2) AND BACKWARD FOR t > 2 
+------------------------------------------------------------------------------------------
+
+ 
+1) PHYSICS  Multiple Choice  Which of the following conditions is necessary and sufficient for 
+an object in equilibrium? 
+ 
+W) It is at rest  
+X) It is moving with constant velocity 
+Y) It is either moving with constant velocity or with constant acceleration 
+Z) It is moving with constant acceleration 
+ 
+ANSWER:  X) IT IS MOVING WITH CONSTANT VELOCITY 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+1) PHYSICS  Short Answer  An object with a mass of 1 gram is whirled in a horizontal circle with 
+a radius of 0.5 meters at a constant speed of 2 meters per second. What is the work done on 
+the object, in joules, during one revolution? 
+ 
+ANSWER:  0 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Multiple Choice  Which of the following will INCREASE the current from a solar 
+panel? 
+ 
+W) Using a lead acid cell in series with the solar cells 
+X) Using a wet cell in series with the solar cells 
+Y) Connecting the solar cells in series 
+Z) Connecting the solar cells in parallel 
+ 
+ANSWER:  Z) CONNECTING THE SOLAR CELLS IN PARALLEL 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+3) PHYSICS  Short Answer  Given a DC circuit with a voltage source delivering 20 volts and a 
+circuit resistance of 5 kiloohms, what is the value of the current in amperes? 
+ 
+ANSWER:  0.004 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+7) PHYSICS  Multiple Choice  Neglecting the effect of air resistance, a stone dropped off of a 
+197-meter high building lands on the ground at which of the following approximate times in 
+seconds? 
+ 
+W) 3 
+X) 4 
+Y) 6 
+Z) 18 
+ 
+ANSWER:  Y) 6 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+7) PHYSICS  Short Answer  A capacitor has a very large capacitance of 10 farads and is 
+charged by placing a potential difference of 2 volts between its plates. How much energy in 
+joules is stored in the capacitor? 
+ 
+ANSWER:  20 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+14) PHYSICS  Short Answer  What is the phrase that refers to the energy required by an 
+incident photon to cause the photoelectric effect? 
+ 
+ANSWER:  WORK FUNCTION 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+14) PHYSICS  Short Answer  By name or number, identify all of the following four household 
+items that make use of the Bernoulli principle: 1) refrigerator, 2) can opener, 3) washing 
+machine, 4) vacuum cleaner. 
+ 
+ANSWER:  VACUUM CLEANER (ACCEPT: 4) 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+4) PHYSICS  Multiple Choice  As the result of a collision with another particle, a charged 
+particle ends up with its velocity vector completely parallel to a uniform magnetic field. Which of 
+the following best describes the subsequent path of the particle? 
+ 
+W) A circular arc 
+X) A spiral 
+Y) A straight line  
+Z) A cycloid 
+ 
+ANSWER:  Y) A STRAIGHT LINE  
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+4) PHYSICS  Short Answer  An 80 kilogram person dives horizontally off a 100 kilogram 
+rowboat. If the diver’s speed after leaving the rowboat is 5 meters per second, what is the speed 
+in meters per second of the rowboat? 
+ 
+ANSWER:  4 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+13) PHYSICS  Short Answer  Two charges, initially 2.0 centimeters apart, experience a 
+repulsive force of 1.0 newtons. Providing your answer as a fraction in simplest form, when the 
+charges are moved to 8.0 centimeters apart, what force in newtons exists between them? 
+ 
+ANSWER:  1/16 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+13) PHYSICS  Short Answer  A solid conducting sphere with a radius of 2 centimeters has a 
+charge of 8 microcoulombs. Concentric with the solid sphere is a hollow conducting spherical 
+shell with an inner radius of 4 centimeters, outer radius of 5 centimeters, and charge of -4 
+microcoulombs. Find the magnitude of the electric field in newtons per coulomb at a radius of 
+4.5 centimeters. 
+ 
+ANSWER:  ZERO 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+16) PHYSICS  Short Answer  By name or number, which of the following three choices are 
+possible constituents of cold dark matter: 1) axions, 2) photinos, 3) quark nuggets? 
+ 
+ANSWER:  AXIONS, PHOTINOS, AND QUARK NUGGETS (ACCEPT: 1, 2, AND 3 OR ALL)  
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+16) PHYSICS  Short Answer  What is the wavelength, rounded to the nearest ten meters, for 
+the carrier wave of the AM radio station WDOE 1410? 
+ 
+ANSWER:  210 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+18) PHYSICS  Short Answer  What subatomic particle is considered the messenger of the 
+strong force? 
+ 
+ANSWER:  GLUON 
+------------------------------------------------------------------------------------------
+
+ 
+18) PHYSICS  Short Answer  When connected to a 5-volt battery, how many 5 microfarad 
+capacitors must be connected in parallel in order to store a charge of 100 microcoulombs? 
+ 
+ANSWER:  4 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+22) PHYSICS  Short Answer  In a Bose-Einstein condensate, what general type of particles co-
+exist in the lowest possible quantum state? 
+ 
+ANSWER:  BOSONS 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+22) PHYSICS  Short Answer  A 9-volt battery costs $1.49 and will run a portable DVD player for 
+6 hours, supplying 25 milliamperes of current. What is the cost per kilowatt hour of the battery’s 
+energy to the nearest $100? 
+ 
+ANSWER:  $1100 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+3) PHYSICS  Short Answer  Using 9.8 meters per second squared for g and providing your 
+answer to the nearest kilojoule, what is the gravitational potential energy of a 33 kilogram cart 
+halfway down a 25-meter high slope that is 60 meters long? 
+ 
+ANSWER:  4 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+3) PHYSICS  Short Answer  Assuming that the speed of sound in air is 343 meters per second 
+and providing your answer to the nearest integer, what is the fundamental frequency in hertz 
+produced by a pipe with a length of 3 meters that is open at both ends? 
+ 
+ANSWER:  57 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+6) PHYSICS  Multiple Choice  Under which of the following conditions is the momentum of a 
+system unchanged? 
+ 
+W) The system is undergoing acceleration 
+X) The system is acted upon by multiple forces 
+Y) The net external forces are zero 
+Z) The net internal forces are zero 
+ 
+ANSWER:  Y) THE NET EXTERNAL FORCES ARE ZERO 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+6) PHYSICS  Short Answer  Providing your answer to the nearest hundredth, what is the 
+moment of inertia in kilogram meters squared of a solid sphere with a mass of 2.5 kilograms and 
+a radius of 30 centimeters? 
+ 
+ANSWER: 0.09 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Multiple Choice  The single electron in the ground state of hydrogen is bound to 
+the proton by 13.6 electron volts. If it is excited to the n = 2 state, by which of the following 
+energies, in electron volts, is it now bound? 
+ 
+W) 3.4 
+X) 6.8 
+Y) 13.6 
+Z) 54.4 
+ 
+ANSWER:  W) 3.4 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+8) PHYSICS  Short Answer  A model truck with a mass of 1.0 kilogram is accelerated by an 
+electric motor from rest to 0.8 meters per second in 20 milliseconds. What is the average power, 
+in watts, delivered by the motor during this time? 
+ 
+ANSWER:  16 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+12) PHYSICS  Multiple Choice  Which of the following kinds of cells CANNOT be recharged? 
+ 
+W) Dry 
+X) Wet 
+Y) Primary 
+Z) Secondary 
+ 
+ANSWER:  W) DRY 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+12) PHYSICS  Short Answer  A 600-newton worker is standing 1.00 meters from the left end of 
+a 200-newton scaffold that is 3.00 meters long and supported by cables at each end. What is 
+the tension in newtons in the right-hand cable? 
+ 
+ANSWER:  300 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+2) PHYSICS  Short Answer  The pressure of an ideal gas is kept constant while the volume of 
+the gas is increased from 2 cubic meters to 6 cubic meters. If the initial temperature is 17° 
+Celsius, find the final temperature in Kelvin to the nearest integer. 
+ 
+ANSWER:  870 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+2) PHYSICS  Short Answer  By number, identify all of the following four groups of physical 
+quantities that have the same units: 1) electric flux, electric field, and electric dipole moment; 2) 
+heat, potential energy, and work; 3) pressure, stress, and Young’s modulus; 4) electromotive 
+force, potential difference, and electric voltage. 
+ 
+ANSWER:  2, 3, AND 4 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+9) PHYSICS  Short Answer  By name or number, identify how antimatter interacts gravitationally 
+with ordinary matter: 1) it is attracted, 2) it is repelled, or 3) there is no interaction.  
+ 
+ANSWER:  IT IS ATTRACTED (ACCEPT: 1) 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+9) PHYSICS  Short Answer  A solid conducting sphere with a radius of 5 centimeters has a 
+charge of 5 microcoulombs. Given Coulomb’s constant as 9.0 × 109 newton meters squared per 
+coulomb squared, what is the magnitude of the electric field in newtons per coulomb at a 
+distance of 5 centimeters from the surface of the sphere?   
+ 
+ANSWER: 4,500,000 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+18) PHYSICS  Multiple Choice  A person spearfishing from the shore sees a fish located 3 
+meters from the shore at an approximate depth of 1 meter. To spear the fish, the person should 
+aim in which of the following directions? 
+ 
+W) Directly at the fish’s image 
+X) Above the fish’s image 
+Y) Below the fish’s image 
+Z) Behind the fish’s image 
+ 
+ANSWER:  Y) BELOW THE FISH’S IMAGE 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+18) PHYSICS  Short Answer  Once a rocket’s fuel runs out, it coasts upwards for another 50 
+kilometers before falling back to Earth. Given g as 10 meters per second squared, what was the 
+rocket’s vertical velocity in meters per second the moment the fuel ran out?  
+ 
+ANSWER:  1000 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+21) PHYSICS  Multiple Choice  A ball is thrown vertically upward. Assuming that up is positive, 
+which of the following pairs best describes its velocity and acceleration, respectively, at its 
+highest point? 
+ 
+W) Negative, negative  
+X) Zero, negative 
+Y) Negative, zero 
+Z) Zero, zero 
+ 
+ANSWER:  X) ZERO, NEGATIVE 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+21) PHYSICS  Short Answer  If an earplug decreases the sound level of sound waves by 20 
+decibels, providing your answer as a decimal to the nearest hundredth, what is the ratio of the 
+final intensity of the waves to their initial intensity? 
+ 
+ANSWER:  0.01 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+23) PHYSICS  Short Answer  A worker pushes a crate across the floor with a force of 50 
+newtons for a distance of 10 meters. If a frictional force of 20 newtons acts on the crate, what is 
+the net work, in joules, done on the crate? 
+ 
+ANSWER:  300 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+23) PHYSICS  Short Answer  A horizontal force of 200 newtons is used to push a 50 kilogram 
+box 10 meters across a floor at constant speed. Given 9.8 meters per second squared as g and 
+providing your answer as a decimal to the nearest hundredth, what is the coefficient of kinetic 
+friction between the box and the floor? 
+ 
+ANSWER:  0.41 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+8) PHYSICS  Multiple Choice  A 2 meter by 2 meter raft sinks 10 centimeters into the water. 
+Which of the following approximates its weight in newtons? 
+ 
+W) 5000 
+X) 3900 
+Y) 2500 
+Z) 1600 
+ 
+ANSWER:  X) 3900 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+8) PHYSICS  Short Answer  Suppose a bat emits sound waves at a frequency of 83 kilohertz 
+while flying with a velocity of 9.0 meters per second as it chases a moth that flies with a velocity 
+of 8.0 meters per second. Given the speed of sound as 343 meters per second, to the nearest 
+integer, what frequency in kilohertz does the moth detect? 
+ 
+ANSWER:  83 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+11) PHYSICS  Short Answer  What is the family name for composite particles made from 
+quarks? 
+ 
+ANSWER:  HADRONS 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+11) PHYSICS  Short Answer  A 1.0-kilogram block is fastened to a spring whose spring 
+constant is 16 newtons per meter. The block is pulled a distance of 11 centimeters from its 
+equilibrium position at x = 0 on a frictionless surface and released from rest at t = 0. What is the 
+period rounded to the nearest tenth of the oscillation? 
+ 
+ANSWER:  1.6 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+13) PHYSICS  Short Answer  The potential voltage difference between two points is 100 volts. If 
+a particle with a charge of 2 coulombs is transported from one of these points to the other, what 
+is the magnitude of the work done in joules? 
+ 
+ANSWER:  200 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+13) PHYSICS  Short Answer  Three particles A, B, and C form an equilateral triangle with a side 
+length of 140 centimeters. A lies at the origin with a mass of 1.1 kilograms. B lies on the x axis 
+with a mass of 2.5 kilograms. C lies in Quadrant I with a mass of 3.4 kilograms. To the nearest 
+centimeter, what is the x coordinate of the center of mass of this system?  
+ 
+ANSWER:  84 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+17) PHYSICS  Multiple Choice  Which of the following statements concerning the magnetic field 
+inside and far from the surface of a long, current-carrying solenoid is TRUE? 
+ 
+W) It is zero 
+X) It is non-zero and nearly uniform 
+Y) It varies with 1/r as measured from the solenoid axis 
+Z) It is independent of the current in the solenoid 
+ 
+ANSWER:  X) IT IS NON-ZERO AND NEARLY UNIFORM 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+17) PHYSICS  Short Answer  Given that objects that have mass greater than 0, by number, 
+identify all of the following four statements that are TRUE: 1) momentum is a form of energy; 2) 
+if an object has momentum, then it must also have mechanical energy; 3) if an object does not 
+have momentum, then it does not have mechanical energy either; 4) if two objects of different 
+mass have the same momentum, then the less massive object will have the greater kinetic 
+energy. 
+ 
+ANSWER:   2 AND 4 
+------------------------------------------------------------------------------------------
+TOSS-UP  
+ 
+24) PHYSICS  Multiple Choice  Given 9.8 meters per second squared as g, how much kinetic 
+energy in joules is lost when a 100-gram ball dropped from a 2 meter height rebounds to 1.5 
+meters? 
+ 
+W) 1.96 
+X) 1.47  
+Y) 0.98 
+Z) 0.49 
+ 
+ANSWER:  Z) 0.49 
+------------------------------------------------------------------------------------------
+BONUS  
+ 
+24) PHYSICS  Short Answer  As a rock with a mass of 4-kilograms drops from the edge of a 40-
+meter-high cliff, it experiences air resistance with an average strength of 20 newtons during the 
+descent. Given g as 10 meters per second squared, at what speed, in meters per second, will 
+the rock hit the ground? 
+ 
+ANSWER:  20 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+1)  PHYSICS  Multiple Choice  Which of the following is the magnitude of the focal length of a 
+spherically curved convex mirror in air, where R stands for the radius of curvature: 
+ 
+W)  R divided by 1.22 
+X)  R divided by 2 
+Y)  R divided by 1.5 
+Z)  R times 4 
+ 
+ANSWER:  X)  R DIVIDED BY 2 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+1)  PHYSICS  Short Answer  An emergency floodlight draws 1 ampere from its battery pack.  How 
+many coulombs will flow through the light in 4 hours? 
+ 
+ANSWER:  14,400   
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+8)  PHYSICS  Multiple Choice  Which of the following MOST directly determines the permittivity 
+of a material:  
+ 
+W)  ability of the material to magnetize 
+X)  electrical susceptibility 
+Y)  electrical insulation capacity  
+Z)  electrical conductivity 
+ 
+ANSWER:  X)  ELECTRICAL SUSCEPTIBILITY 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+8)  PHYSICS  Short Answer  What are the SI units for permittivity? 
+ 
+ANSWER:  FARADS PER METER  
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+15)  PHYSICS  Short Answer  What is the general term for the process of making different types of 
+semiconductors by adding slight amounts of impurities into the silicon matrix? 
+ 
+ANSWER:  DOPING 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+15)  PHYSICS  Short Answer  What specific type of semiconductor is produced by doping silicon 
+with arsenic? 
+ 
+ANSWER:  N-TYPE 
+------------------------------------------------------------------------------------------
+TOSS-UP 
+ 
+22)  PHYSICS  Short Answer  In the electrolysis of water, if the production of each molecule of 
+oxygen requires 4 units of  electricity, each hydrogen molecule will require how many units of 
+electricity? 
+ 
+ANSWER:  2 
+------------------------------------------------------------------------------------------
+BONUS 
+ 
+22)  PHYSICS  Short Answer  What is the maximum number of 100-watt light bulbs that can run on 
+a 110-volt residential circuit protected by a 15-amp fuse without blowing the fuse? 
+ 
+ANSWER:  16  
+------------------------------------------------------------------------------------------
